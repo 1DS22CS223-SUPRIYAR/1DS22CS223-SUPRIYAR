@@ -1,6 +1,6 @@
 
 <!-- Introduction -->
-## Hello! 👋 I'm Supriya R]
+## Hello! 👋 I'm Supriya R
 
 I am a passionate computer science and engineering student with a love for technology and innovation. I enjoy creating software solutions that solve real-world problems. When I'm not coding, you can find me exploring the latest trends in tech, reading books, or hiking.
 
