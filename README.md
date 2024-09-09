@@ -1,5 +1,4 @@
-<!-- GitHub Profile Header -->
-<img src="https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg" alt="Header Image" style="width: 100%;"/>
+
 <!-- Introduction -->
 ## Hello! 👋 I'm Supriya R]
 
