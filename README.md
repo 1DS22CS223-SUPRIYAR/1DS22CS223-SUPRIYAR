@@ -2,7 +2,7 @@
 <!-- Introduction -->
 ## Hello! 👋 I'm Supriya R]
 
-I am a passionate software developer with a love for technology and innovation. I enjoy creating software solutions that solve real-world problems. When I'm not coding, you can find me exploring the latest trends in tech, reading books, or hiking.
+I am a passionate computer science and engineering student with a love for technology and innovation. I enjoy creating software solutions that solve real-world problems. When I'm not coding, you can find me exploring the latest trends in tech, reading books, or hiking.
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
@@ -13,7 +13,7 @@ I am a passionate software developer with a love for technology and innovation. 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](![image](https://github.com/user-attachments/assets/3198b1ef-f86b-43c8-95d2-a1c8f9458246)
+![C](https://github.com/user-attachments/assets/3198b1ef-f86b-43c8-95d2-a1c8f9458246)
 
 <!-- GitHub Profile Stats -->
 ### 📊 GitHub Stats
