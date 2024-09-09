@@ -1,8 +1,8 @@
 <!-- GitHub Profile Header -->
-![Header Image](https://your-image-url.com/header.png)
+![Header Image]([https://your-image-url.com/header.png](https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg))
 
 <!-- Introduction -->
-## Hello! 👋 I'm [Supriya R] 
+## Hello! 👋 I'm Supriya R]
 
 I am a passionate software developer with a love for technology and innovation. I enjoy creating software solutions that solve real-world problems. When I'm not coding, you can find me exploring the latest trends in tech, reading books, or hiking.
 
