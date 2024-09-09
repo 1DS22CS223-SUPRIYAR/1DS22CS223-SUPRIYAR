@@ -1,6 +1,5 @@
 <!-- GitHub Profile Header -->
-![Header Image](https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg)
-
+<img src="https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg" alt="Header Image" style="width: 100%;"/>
 <!-- Introduction -->
 ## Hello! 👋 I'm Supriya R]
 
@@ -15,7 +14,7 @@ I am a passionate software developer with a love for technology and innovation. 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C](![image](https://github.com/user-attachments/assets/3198b1ef-f86b-43c8-95d2-a1c8f9458246)
 
 <!-- GitHub Profile Stats -->
 ### 📊 GitHub Stats
@@ -33,5 +32,3 @@ I am a passionate software developer with a love for technology and innovation. 
 ### 🌍 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriyar334@gmail.com)
 
-<!-- Profile Footer -->
-![Footer Image](https://your-image-url.com/footer.png)
