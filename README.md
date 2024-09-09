@@ -1,5 +1,5 @@
 <!-- GitHub Profile Header -->
-![Header Image]([https://your-image-url.com/header.png](https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg))
+![Header Image](https://c4.wallpaperflare.com/wallpaper/355/585/282/some-funny-robots-wallpaper-preview.jpg)
 
 <!-- Introduction -->
 ## Hello! 👋 I'm Supriya R]
