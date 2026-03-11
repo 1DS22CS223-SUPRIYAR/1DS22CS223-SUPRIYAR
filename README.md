@@ -22,11 +22,6 @@ I am a passionate computer science and engineering student with a love for techn
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DS22CS223-SUPRIYAR&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CS223-SUPRIYAR&layout=compact&theme=radical)
 
-<!-- GitHub Trophies -->
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=1DS22CS223-SUPRIYAR)
-
 <!-- Social Media Links -->
 ### 🌍 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriyar334@gmail.com)
