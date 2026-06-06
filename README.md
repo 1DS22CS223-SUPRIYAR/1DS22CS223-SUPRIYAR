@@ -18,11 +18,13 @@ When I’m not coding, you’ll probably find me reading about emerging tech tre
 
 ---
 
+```md
 ## 📊 GitHub Stats
 
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1DS22CS223-SUPRIYAR\&show_icons=true\&theme=radical)
+![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1DS22CS223-SUPRIYAR&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CS223-SUPRIYAR\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CS223-SUPRIYAR&layout=compact&theme=radical&cache_seconds=1800)
+```
 
 ---
 
